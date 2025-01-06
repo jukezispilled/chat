@@ -1,4 +1,4 @@
-# Neur
+# Chat
 
 > The Intelligent Copilot for Solana
 
